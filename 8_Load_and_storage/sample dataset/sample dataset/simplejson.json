@@ -1,0 +1,22 @@
+{
+    "Name": [
+        "Ali",
+        "Abu",
+        "Chen"
+    ],
+    "Age": [
+        25,
+        30,
+        29
+    ],
+    "Score": [
+        88,
+        92,
+        79
+    ],
+    "Status": [
+        true,
+        false,
+        false
+    ]
+}
